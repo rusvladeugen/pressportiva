@@ -1,0 +1,47 @@
+body {
+
+}
+
+.antet{
+	background-color:Snow
+}
+
+.topplayer{
+	background-color:DarkRed
+
+}
+
+.titlu{
+	background-color:DarkRed
+}
+
+.btn{
+	font-family: "Roboto", sans-serif:
+	font-size: 10px;
+	font-weight: bold;
+	background: black;
+	widht: 100px;
+	padding: 25px;
+	text-align: center;
+	text-decoration: none;
+	text-transform: uppercase;
+	color: #fff;
+	border-radius: 5px;
+	cursor: pointer;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+	-webkit-transition-duration: 0.3s;
+	transition-duration: 0.3s;
+	-webkit-transition-property: box-shadow, 
+	
+}
+.btn:hover, .btn:focus, .btn:active{
+	box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+	-webkit-transform: scale (10.1);
+	transform: scale (10.1);
+}
+	
+.shadowimage:hover, .btn:focus, .btn:active{
+	box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+	-webkit-transform: scale (10.1);
+	transform: scale (10.1);
+} 	

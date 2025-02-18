@@ -1,0 +1,198 @@
+<h2><font color="black">Clasament Liga 1 Play-off</font></h2> 
+</div>
+    <td>Loc   </td>
+    <td>Echipe</td>
+	<td>MJ</td>
+    <td>Punctaj</td>
+  </tr>
+</thead>
+<tbody>
+  <tr bgcolor="green"> 
+    <td>1   </td>
+    <td>Universitatea Craiova</td>
+	<td>2</td>
+    <td>4  </td>
+  </tr>
+  <tr bgcolor="DodgerBlue"> 
+    <td>2            </td>
+    <td>FC CFR 1907Cluj</td>
+	<td>2</td>
+    <td>4           </td>
+<tr bgcolor="DodgerBlue"> 
+    <td>3            </td>
+    <td>AFC Unirea04 Solobozia</td>
+	<td>2</td>
+    <td>4           </td>
+  </tr>
+<tr> 
+    <td>4            </td>
+    <td>Otelul Galati</td> 
+	<td>1</td>
+    <td>3           </td>
+  </tr>
+<tr> 
+    <td>5            </td>
+    <td>SEPSI OSK</td>
+	<td>1</td>
+    <td>3           </td>
+  </tr>
+<tr> 
+    <td>6            </td>
+    <td>Poli Iasi</td>
+	<td>1</td>
+    <td>3           </td>
+  </tr>
+
+  </tbody>
+</table>
+<div class="antet">
+<p><font> Locul 1 din play-off participă în Liga Campionilor, iar locul 2 și 3 din play-off în Europa Conference League.
+ Locul 3 din play-off va juca baraj cu caștigatoarea barajului dintre locurile 1 si 2 din play-out pentru un loc în Europa Conference League.
+</font></p>
+</div>
+</div>
+
+
+<div align="center" bgcolor="green">
+<table border="1">
+<thead>
+<table bgcolor="white">
+  <tr>
+  <div>
+<h2><font color="black">Clasament Play-out Liga 1</font></h2> 
+</div>
+    <td>Loc   </td>
+    <td>Echipe</td>
+	<td>MJ</td>
+    <td>Punctaj</td>
+  </tr>
+</thead>
+<tbody>
+<tr bgcolor="green"> 
+    <td>1            </td>
+    <td>AFC Hermannstadt</td>
+	<td>6</td>
+    <td>31           </td>
+  </tr>
+<tr bgcolor="DodgerBlue"> 
+    <td>2            </td>
+    <td>UTA Arad</td>
+	<td>6</td>
+    <td>31          </td>
+  </tr>
+<tr> 
+    <td>3            </td>
+    <td>Otelul Galati</td>
+	<td>6</td>
+    <td>30           </td>
+  </tr>
+<tr> 
+    <td>4            </td>
+    <td>Universitatea Cluj</td>
+	<td>6</td>
+    <td>29           </td>
+  </tr>
+<tr> 
+    <td>5            </td>
+    <td>Petrolul</td>
+	<td>6</td>
+    <td>26           </td>
+  </tr>
+<tr> 
+    <td>6            </td>
+    <td>FC Voluntari</td>
+	<td>6</td>
+    <td>22           </td>
+  </tr>
+<tr> 
+    <td>7            </td>
+    <td>FC Botosani</td>
+	<td>6</td>
+    <td>21
+    </td>
+  </tr>
+<tr> 
+    <td>8            </td>
+    <td>Poli Iasi</td>
+	<td>6</td>
+    <td>21           </td>
+  </tr>
+<tr bgcolor="red"> 
+    <td>9           </td>
+    <td>Dinamo Bucuresti</td>
+	<td>6</td>
+    <td>20           </td>
+  </tr>
+<tr bgcolor="red"> 
+    <td>10           </td>
+    <td>FCU 1948 Craiova</td>
+	<td>6</td>
+    <td>19           </td>
+  </tr>
+
+
+
+
+
+<h2><font color="black"> Etapa 7 Play-Off</font></h2> 
+</div>
+    <td>Data  </td>
+	<td> Rezultat</td>
+  </tr>
+</thead>
+<tbody>
+<tr bgcolor="white" class="shadowimage"> 
+    <td>27.04.2024, ora 20:30</td>
+    <td>FCSB  -  Farul Constanta</td>
+  </tr>
+<tr bgcolor="white" class="shadowimage"> 
+    <td>28.04.2024, ora 21:00</td>
+    <td>CFR Cluj 1907 -  Sepsi OSK </td>
+  </tr>
+<tr bgcolor="white" class="shadowimage"> 
+    <td>29.04.2024, ora 20:30 </td>
+    <td>Rapid Bucuresti  -  Universitatea Craiova</td>
+  </tr>
+
+</table>
+
+</div>
+
+
+
+
+<div align="center" bgcolor="green">
+<table border="1">
+<thead>
+<table bgcolor="white">
+  <tr bgcolor="green">
+  <div>
+<h2><font color="black"> Etapa 7 Play-Out</font></h2> 
+</div>
+    <td>Data  </td>
+	<td> Rezultat</td>
+  </tr>
+</thead>
+<tbody>
+<tr bgcolor="white" class="shadowimage">
+    <td>26.04.2024, ora 20:00</td>
+    <td>Dinamo Bucuresti  -  FC Voluntari</td>
+  </tr>
+<tr bgcolor="white" class="shadowimage"> 
+    <td>27.04.2024, ora 17:30</td>
+    <td>FCU 1948  -  Universitatea Cluj </td>
+  </tr>
+<tr bgcolor="white" class="shadowimage"> 
+    <td>28.04.2024, ora 13:30 </td>
+    <td>Otelul Galati   -  AFC Hermannstadt</td>
+  </tr>
+<tr bgcolor="white" class="shadowimage">
+    <td>28.04.2024, ora 18:15 </td>
+    <td>Poli Iasi  -  UTA Arad</td>
+  </tr>
+  <tr bgcolor="white" class="shadowimage"> 
+    <td>29.04.2024, ora 17:30 </td>
+    <td>Petrolul Ploiesti  -  FC Botosani</td>
+  </tr>
+</table>
+</div>
